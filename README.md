@@ -1,2 +1,2 @@
-# gitdemo_tuto
+# gitdem
 This is my first git tuto
